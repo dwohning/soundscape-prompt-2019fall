@@ -1,3 +1,3 @@
 JohnsonBrandEditing
-Eelke
-InspectorJ
+Eelke CC BY
+InspectorJ CC BY
